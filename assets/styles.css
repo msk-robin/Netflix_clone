@@ -1,24 +1,13 @@
+
 body{
     font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
-     padding: 0;
     margin: 0;
-    background-color: black;
+    padding: 0;
 }
-.heroheader {
-     width: 100%;
-     height:720px;
-    
-}
-.heroheader  img {
+.mainnav{
+    background-image: url("./photo/newntflx.jpg");
+    height: 720vh ;
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    opacity: 0.5;
-}
-hr{
-    width: 100%;
-    height: 10px;
-    background-color:#434343;
-    padding: -7px;
-    border: 0;
+    background-position:center;
+    background-repeat: no-repeat;
 }
